@@ -1,0 +1,15 @@
+{
+  "name": "neeo-driver-raumfeld",
+  "version": "1.0.0",
+  "description": "Interface between Neeo SDK and node-raumkernel to control Raumfeld / Teufel Streaming device with Neeo remote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ingo Schaefer",
+  "license": "MIT",
+  "dependencies": {
+    "neeo-sdk": "^0.51.13",
+    "node-raumkernel": "^1.2.21"
+  }
+}
